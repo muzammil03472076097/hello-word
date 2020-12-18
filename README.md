@@ -1,2 +1,2 @@
 # hello-word
-just for bigening
+just for begining
